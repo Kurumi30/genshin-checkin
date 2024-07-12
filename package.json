@@ -1,0 +1,19 @@
+{
+  "name": "genshin-checkin",
+  "version": "1.0.0",
+  "description": "Fazer checkin diário no genshin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file .env ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kurumi30/genshin-checkin.git"
+  },
+  "author": "Kurumi30",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kurumi30/genshin-checkin/issues"
+  },
+  "homepage": "https://github.com/Kurumi30/genshin-checkin#readme"
+}
